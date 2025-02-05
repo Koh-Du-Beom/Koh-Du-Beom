@@ -1,7 +1,12 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9DF1B3,100:00A896&height=180&section=header&text=고두범의%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-	<h3>🌟 Frontend Developer | Passion for UI/UX & Performance 🌟</h3>
+	
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=고두범의%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+		
+<img src="https://avatars.githubusercontent.com/u/48877668?v=4" width="120" style="border-radius: 50%; margin-top: 15px;" />
+	
+<h3>🌟 Frontend Developer | Passion for UI/UX & Performance 🌟</h3>
 </div>
+
 
 
 <div align="center">
@@ -29,7 +34,7 @@
 <img src="https://img.shields.io/badge/ngrok-1F1F1F?style=flat&logo=ngrok&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="35">
 <img src="https://img.shields.io/badge/Termius-2C2C2C?style=flat&logo=termius&logoColor=white" height="35">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" height="35">
 
 <h3>🗄 Database</h3>
@@ -66,6 +71,11 @@
 
 <a href="mailto:bean3260@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="40">
+</a>
+
+<a href="https://www.instagram.com/dubeom/">
+<img src="https://img.shields.io/badge/
+Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
 </a>
 
 </div>
