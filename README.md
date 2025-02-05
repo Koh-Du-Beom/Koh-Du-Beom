@@ -29,9 +29,9 @@
 <div align="center">
 <h2> 📫 Contact Me <h2/>
 	
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=flat&logo=google-chrome&logoColor=white)](http://dpre.kr)
 	
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beanleaf3260@gmail.com)
+[![beanleaf3260@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beanleaf3260@gmail.com)
 </div>
 
 
