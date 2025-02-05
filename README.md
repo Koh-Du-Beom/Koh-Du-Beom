@@ -1,9 +1,8 @@
 <div align="center">
 	
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=고두범의%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3A3A3A&height=180&section=header&text=고두범의%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 		
-<img src="https://avatars.githubusercontent.com/u/48877668?v=4" />
-
+<img src="https://github.com/Koh-Du-Beom.png" width="120" style="border-radius: 50%; margin-top: 15px;" />
 <h3>🌟 Frontend Developer | Passion for UI/UX & Performance 🌟</h3>
 </div>
 
