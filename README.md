@@ -21,6 +21,14 @@
 
 <h2 align="center">📝 Studying 📝</h2>
 <div align="center">
-<img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-<img />
+<img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
 </div>
+
+<div align="center">
+### 📫 Contact Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beanleaf3260@gmail.com)
+</div>
+
+
