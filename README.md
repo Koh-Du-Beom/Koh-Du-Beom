@@ -24,6 +24,11 @@
 
 </div>
 
+<h2 align="center">📝 Studying 📝</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
+</div>
 
 <div align="center">
 <h2>📊 GitHub Stats </h2>
@@ -31,11 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koh-Du-Beom&layout=compact&theme=radical)
 </div>
 
-<h2 align="center">📝 Studying 📝</h2>
-<div align="center">
-<img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
-</div>
+
 
 <div align="center">
 <h2> 📫 Contact Me <h2/>
