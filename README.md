@@ -15,9 +15,9 @@
 
 </div>
 
-<div align="center">
-
-</div>
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koh-Du-Beom&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koh-Du-Beom&layout=compact&theme=radical)
 
 <h2 align="center">📝 Studying 📝</h2>
 <div align="center">
