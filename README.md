@@ -1,6 +1,8 @@
 <div align="center">
-	<h2>고두범의 깃허브</h2>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9DF1B3,100:00A896&height=180&section=header&text=고두범의%20GitHub!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+	<h3>🌟 Frontend Developer | Passion for UI/UX & Performance 🌟</h3>
 </div>
+
 
 <div align="center">
 <h2>
