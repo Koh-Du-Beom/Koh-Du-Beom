@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
 </a>
 
-<a href="mailto:beanleaf3260@naver.com">
+<a href="mailto:bean3260@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="40">
 </a>
 
