@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Koh-Du-Beom/Koh-Du-Beom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>고두범의 깃허브</h2>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>🌐 Web Stack (웹 기술 스택)</h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+</div>
+
+<h2 align="center">📝 Studying 📝</h2>
+<img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+		
