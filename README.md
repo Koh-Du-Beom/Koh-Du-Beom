@@ -2,7 +2,7 @@
 	<h2>고두범의 깃허브</h2>
 </div>
 
-<h2 align="center">🌐 Web Stack (웹 기술 스택)</h2>
+<h2 align="center">🌐 Web Tech Stack</h2>
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -14,10 +14,11 @@
 
 
 </div>
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Koh-Du-Beom&show_icons=true&theme=radical)
+<div align="center">
+<h2>📊 GitHub Stats </h2>
+	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koh-Du-Beom&layout=compact&theme=radical)
+</div>
 
 <h2 align="center">📝 Studying 📝</h2>
 <div align="center">
@@ -26,8 +27,10 @@
 </div>
 
 <div align="center">
-### 📫 Contact Me
+<h2> 📫 Contact Me <h2/>
+	
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+	
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beanleaf3260@gmail.com)
 </div>
 
