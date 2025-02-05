@@ -22,6 +22,16 @@
 <h3>🖥️ Language Stack</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="35">
 
+<h3>🛠 DevOps & Tools</h3>
+<img src="https://img.shields.io/badge/ngrok-1F1F1F?style=flat&logo=ngrok&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="35">
+<img src="https://img.shields.io/badge/Termius-2C2C2C?style=flat&logo=termius&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" height="35">
+
+<h3>🗄 Database</h3>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" height="35">
 </div>
 
 <h2 align="center">📝 Studying 📝</h2>
