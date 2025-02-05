@@ -50,26 +50,23 @@
 
 
 <div align="center">
-<h2> 📫 Contact Me <h2/>
-<div align="center">
-<h3>
-	Portfolio Page : 
+<h2> 📫 Contact Me </h2>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=flat&logo=google-chrome&logoColor=white)](https://github.com/Koh-Du-Beom)
-</h3> 
+<h3>Portfolio Page</h3>
+<a href="https://github.com/Koh-Du-Beom">
+    <img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height="40">
+</a>
 
-	
+<h3>Email</h3>
+<a href="mailto:beanleaf3260@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+</a>
 
-<h3>
-Email
-	
-[![beanleaf3260@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beanleaf3260@gmail.com)
- 
-beanleaf3260@naver.com
-</h3> 
+<a href="mailto:beanleaf3260@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="40">
+</a>
 
-
-</div>	
 </div>
+
 
 
