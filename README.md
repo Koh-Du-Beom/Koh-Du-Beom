@@ -75,7 +75,7 @@
 </a>
 
 <a href="https://www.instagram.com/dubeom/">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="40"> 
 </a>
 
 </div>
