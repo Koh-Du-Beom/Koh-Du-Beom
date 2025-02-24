@@ -36,7 +36,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="35">
 <img src="https://img.shields.io/badge/Termius-2C2C2C?style=flat&logo=termius&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white" height="35">
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" height="35">
 
 <h3>🗄 Database</h3>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="35">
