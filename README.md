@@ -25,29 +25,38 @@
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/Zustand-181717?style=flat&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white" height="35">
+<br/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/MapLibre_GL-4264FB?style=flat&logo=maplibre&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" height="35">
 
 <h3>Backend</h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white" height="35">
+<br/>
+<img src="https://img.shields.io/badge/QueryDSL-4A90D9?style=flat&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="35">
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="35">
 
 <h3>Infra / DevOps</h3>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" height="35">
 <br/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat&logo=naver&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white" height="35">
+<br/>
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white" height="35">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="35">
-</div>
 
-<h2 align="center">Studying</h2>
-<div align="center">
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+<h3>Architecture</h3>
+<img src="https://img.shields.io/badge/FSD-A78BFA?style=flat&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/REST_API_설계-60A5FA?style=flat&logoColor=white" height="35">
+<img src="https://img.shields.io/badge/AI_Agent_Orchestration-34D399?style=flat&logoColor=white" height="35">
 </div>
 
 <div align="center">
