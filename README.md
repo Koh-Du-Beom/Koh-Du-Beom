@@ -54,8 +54,6 @@
 <h2>GitHub Stats</h2>
 
 <img src="https://streak-stats.demolab.com/?user=Koh-Du-Beom&theme=radical&hide_border=true" height="180" />
-<br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koh-Du-Beom&theme=radical" width="720" />
 </div>
 
 
