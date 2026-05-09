@@ -53,7 +53,8 @@
 <div align="center">
 <h2>GitHub Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koh-Du-Beom&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Koh-Du-Beom&show_icons=true&theme=radical&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koh-Du-Beom&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
 
 
